@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there ! I'm Raphaël 
+
+
+Welcome to my github account. I'm a french student in second year of developpement web based in Lyon
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelmoynat&hide=contribs,prs)
 
 <!--
 **raphaelmoynat/raphaelmoynat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
